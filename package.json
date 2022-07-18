@@ -35,7 +35,7 @@
     "cordova-registry-mapper": "^1.1.12",
     "cordova-serve": "^4.0.1-nightly.2022.2.9.4f03d377",
     "csp-parse": "^0.0.2",
-    "glob": "^7.0.5",
+    "glob": "^7.2.3",
     "minimist": "^1.2.5",
     "replacestream": "^4.0.0",
     "send-transform": "^0.15.1",
