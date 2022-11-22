@@ -39,7 +39,7 @@
     "minimist": "^1.2.5",
     "replacestream": "^4.0.0",
     "send-transform": "^0.15.1",
-    "socket.io": "^2.4.1",
+    "socket.io": "^2.5.0",
     "through2": "^2.0.0",
     "uuid": "^3.3.2"
   },
